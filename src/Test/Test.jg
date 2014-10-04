@@ -1,0 +1,11 @@
+
+
+
+main() Int {
+
+    img = Png::Image('foo.png')
+
+    ret 0
+
+
+}
